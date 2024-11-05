@@ -43,3 +43,4 @@ alias ls='ls --color'
 #eval "$(fzf --zsh)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
