@@ -2,4 +2,6 @@ btags
 test.sh
 .luarc.json
 
+.config/tmux/plugins
+
 spell/
