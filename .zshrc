@@ -40,7 +40,5 @@ zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 
 alias ls='ls --color'
 
-#eval "$(fzf --zsh)"
-
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
