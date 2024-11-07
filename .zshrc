@@ -42,3 +42,4 @@ alias ls='ls --color'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+### End of Zinit's installer chunk
