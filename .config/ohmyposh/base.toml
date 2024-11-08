@@ -46,7 +46,7 @@ enable_cursor_positioning = true
     type = 'path'
     style = 'plain'
     background = 'transparent'
-    foreground = 'blue'
+    foreground = 'yellow'
     template = '{{ .Path }}'
     
     [blocks.segments.properties]

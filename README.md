@@ -7,3 +7,9 @@ tmux install plugins
 ```
 <leader> + I
 ```
+-----
+python venv
+```
+python -m venv <name>
+source <name>/bin/activate
+```
